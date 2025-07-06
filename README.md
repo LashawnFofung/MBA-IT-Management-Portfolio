@@ -16,7 +16,7 @@
           - [FO Tread Bikes (MBA Capstone Conscious Capitalism) Project](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#-fo-tread-bikes-conscious-capitalism)
    
     - <b>Strategy, Marketing, Finance, Accounting</b>
-      - [FO Tread Bikes (MBA Capstone Conscious Capitalism) Project](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#-fo-tread-bikes-conscious-capitalism)
+      - [FO Tread Bikes (MBA Capstone Conscious Capitalism) Project](https://github.com/LashawnFofung/MBA-IT-Management-Portfolio/blob/main/README.md#-fo-tread-bikes-conscious-capitalism)
      
 - <b>[CERTIFICATIONS](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#certifications)</b>
 - <b>[CONTACT](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#contact)</b>
@@ -87,9 +87,6 @@ This portfolio reflects my commitment to transforming technological opportunitie
 **Results:** Using linear regression analysis, a statistically significant negative relationship was identified between the Employee Well-being Program's participation rate and nurse attrition rates (p < 0.01). The model revealed that approximately 75% of the variation in nurse attrition rate can be explained by the variation in program participation rate, indicating a moderate to strong fit (R-squared = 0.7485). The derived linear equation, "Predicted Nurse Attrition Rate = -0.081453147 * Program Participation Rate + 5.268268323," indicates that for every 1% increase in program participation, the nurse attrition rate is predicted to decrease by approximately 0.081%. These findings support the hospital's continued investment in and strategic enhancement of the Employee Well-being Program to stabilize its nursing workforce and reduce turnover costs.
 
 <h2></h2>
-  
-
-<h2>Portfolio - Strategy Project</h2>
 
 <h3> FO Tread Bikes (Conscious Capitalism)</h3>
           
