@@ -11,7 +11,7 @@
 
     - <b>Data</b>
         - Excel
-          - [Analyzing the Drug Market Project](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#analyzing-the-drug-market)
+          - [Analyzing the Drug Market Project](https://github.com/LashawnFofung/MBA-IT-Management-Portfolio/blob/main/README.md#analyzing-the-drug-market)
           - [Nurse Attrition Linear Regression Analysis Project](https://github.com/LashawnFofung/LashawnFofung-Portfolio/tree/main#analyzing-the-impact-wellness-participation-has-on-nurse-attrition-rate)
           - [FO Tread Bikes (MBA Capstone Conscious Capitalism) Project](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#-fo-tread-bikes-conscious-capitalism)
    
@@ -52,7 +52,6 @@ This portfolio reflects my commitment to transforming technological opportunitie
 
 <h1>PROJECTS</h1>
 
-<h2></h2>
 
 <h3>Analyzing the Drug Market</h3>
          
