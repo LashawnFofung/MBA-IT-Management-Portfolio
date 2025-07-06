@@ -52,9 +52,6 @@ This portfolio reflects my commitment to transforming technological opportunitie
 
 <h1>PROJECTS</h1>
 
-<h2>Portfolio - Data Analysis Projects</h2>
-       In this section, I have listed some of my data analytics projects with a brief description of the technology stack used to solve cases.
-
 <h2></h2>
 
 <h3>Analyzing the Drug Market</h3>
