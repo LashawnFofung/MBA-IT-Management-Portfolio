@@ -27,15 +27,23 @@ MBA IT Management | BIS Clinical Informatics | PMP | CSM | CSPO
 
 <h2>ABOUT ME</h2>
 
-I am a strategic and client-focused Business Management Professional with a robust background in healthcare, software development, IT, and project management. My intrinsic drive for organization, honed from managing diverse personal and professional endeavors, has evolved into a refined expertise in leading complex initiatives.
+MBA in IT Management Portfolio: Driving Strategic Solutions & Data-Driven Innovation
 
-I excel at managing IT projects, leveraging both Agile and Waterfall methodologies to ensure SDLC compliance and drive cross-functional alignment for high-quality, on-time solutions. My distinct strength lies in translating complex data into actionable insights, utilizing tools like Tableau, Power BI, SQL, and Excel to inform decision-making and optimize project outcomes. This data analytics expertise, coupled with my background in software development and project management, empowers me to effectively address challenges and deliver valuable client solutions.
+This portfolio showcases my expertise as an MBA in IT Management professional, focused on leveraging strategic thinking and data analytics to drive business value. As a PMP, CSM, CSPO-certified Agile leader, I excel in managing complex IT projects and optimizing product delivery.
 
-Most recently, I've served as an Agile Leader at United Health Group - Optum, where I successfully led Scrum teams, managing sprint planning, resource allocation, and stakeholder collaboration. These roles have sharpened my proactive problem-solving, communication, and multi-priority management skills, consistently driving successful project and product delivery.
+My work demonstrates a strong command of data analytics (Tableau, Power BI, SQL, Excel) for actionable insights, as well as hands-on experience in Agile methodologies and software development lifecycle (SDLC). Key highlights include:
 
-I am passionate about fostering collaborative relationships with diverse stakeholders, championing diversity and inclusion, and cultivating a supportive, results-oriented workplace that thrives on continuous learning.
+MBA Capstone Project (Marketplace Simulation): Led all business functions for a simulated startup, developing comprehensive business strategies, securing venture capital, and optimizing operations to achieve significant growth. This project showcases my proficiency in financial management, strategic planning, marketing, operations, and data-driven decision-making.
 
-Explore my portfolio to see how my skills and experiences can drive innovation and success in your projects. Connect with me to discover how we can work together to achieve remarkable results and transform the way people work.
+
+Data-Driven Decision Making Projects: Applied linear regression modeling to analyze nurse attrition rates (MS Excel Data Analysis ToolPak) and conducted 
+
+decision tree analysis for pharmaceutical market strategy.
+
+IT Strategic Solutions Project (Fofung Voyages): Developed a strategic technology roadmap, including a data analytics platform proposal leveraging cloud-based data warehousing and BI tools, to enhance customer engagement and optimize marketing spend.
+
+This portfolio reflects my commitment to transforming technological opportunities into tangible business value and fostering high-performing teams.
+
 
 <h2></h2>
 
