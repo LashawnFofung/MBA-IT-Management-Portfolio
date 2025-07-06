@@ -1,6 +1,6 @@
 <h2>Lashawn Fofung MBA IT Management Portfolio</h2>
 
-Driving Strategic Solutions & Data-Driven Innovation
+<i>Driving Strategic Solutions & Data-Driven Innovation</i>
 
 <h2></h2>
 
