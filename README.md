@@ -1,8 +1,10 @@
-<h2>MBA in IT Management Portfolio: Driving Strategic Solutions & Data-Driven Innovation</h2>
+<h2>Lashawn Fofung MBA IT Management Portfolio</h2>
+
+Driving Strategic Solutions & Data-Driven Innovation
 
 <h2></h2>
 
-<h2>TABLE OF CONTENTS</h2> 
+<h3>TABLE OF CONTENTS</h3> 
 
 - <b>[ABOUT ME](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#about-me) </b>
 - <b>[PROJECTS](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#projects)</b>
