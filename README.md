@@ -19,7 +19,7 @@
       - [FO Tread Bikes (MBA Capstone Conscious Capitalism) Project](https://github.com/LashawnFofung/MBA-IT-Management-Portfolio/blob/main/README.md#-fo-tread-bikes-conscious-capitalism)
      
 - <b>[CERTIFICATIONS](https://github.com/LashawnFofung/MBA-IT-Management-Portfolio/blob/main/README.md#certifications)</b>
-- <b>[CONTACT](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#contact)</b>
+- <b>[CONTACT](https://github.com/LashawnFofung/MBA-IT-Management-Portfolio/blob/main/README.md#contact)</b>
 
 <h2></h2>
 
