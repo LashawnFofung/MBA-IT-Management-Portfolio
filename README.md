@@ -6,7 +6,7 @@
 
 <h3>TABLE OF CONTENTS</h3> 
 
-- <b>[ABOUT ME](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#about-me) </b>
+- <b>[ABOUT ME](https://github.com/LashawnFofung/MBA-IT-Management-Portfolio?tab=readme-ov-file#about-me) </b>
 - <b>[PROJECTS](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#projects)</b>
 
     - <b>Data</b>
