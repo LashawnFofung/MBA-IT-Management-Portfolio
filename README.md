@@ -1,4 +1,4 @@
-<h2>Lashawn Fofung - MBA IT Management Portfolio</h2>
+<h2>MBA in IT Management Portfolio: Driving Strategic Solutions & Data-Driven Innovation</h2>
 
 
 MBA IT Management | BIS Clinical Informatics | PMP | CSM | CSPO
@@ -26,8 +26,6 @@ MBA IT Management | BIS Clinical Informatics | PMP | CSM | CSPO
 <h2></h2>
 
 <h2>ABOUT ME</h2>
-
-MBA in IT Management Portfolio: Driving Strategic Solutions & Data-Driven Innovation
 
 This portfolio showcases my expertise as an MBA in IT Management professional, focused on leveraging strategic thinking and data analytics to drive business value. As a PMP, CSM, CSPO-certified Agile leader, I excel in managing complex IT projects and optimizing product delivery.
 
