@@ -119,11 +119,11 @@ This portfolio reflects my commitment to transforming technological opportunitie
 <h2>CERTIFICATIONS</h2>
 
 - <b> Project Management Professional(PMP)</b>
-  - [Badge Link](https://www.credly.com/badges/069386a1-7007-40f8-9773-f308e59e06db/public_url) <b>
+  - [Badge Link](https://www.credly.com/badges/069386a1-7007-40f8-9773-f308e59e06db/public_url) 
 - <b> Certified Scrum Master(CSM)</b>
-  - [Badge Link](https://badgecert.com/bc/html/groupbadges.html?k=NWR6TmMzUVRUbElJeVZ5c0RnclVnems0cTkybW0yb2Q) <b>
+  - [Badge Link](https://badgecert.com/bc/html/groupbadges.html?k=NWR6TmMzUVRUbElJeVZ5c0RnclVnems0cTkybW0yb2Q) 
 - <b> Ceritified Scrum Product Owner(CSPO)</b>
-  - [Badge Link](https://badgecert.com/bc/html/groupbadges.html?k=NWR6TmMzUVRUbElJeVZ5c0RnclVnems0cTkybW0yb2Q) <b>
+  - [Badge Link](https://badgecert.com/bc/html/groupbadges.html?k=NWR6TmMzUVRUbElJeVZ5c0RnclVnems0cTkybW0yb2Q) 
 
 <h2></h2>
 
