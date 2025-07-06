@@ -1,6 +1,9 @@
-<h2>Lashawn Fofung - MBA IT Management Portfolio</h2>
+# Lashawn Fofung - MBA IT Management Portfolio
+
+MBA IT Management | BIS Clinical Informatics | PMP | CSM | CSPO
 
 <i>Driving Strategic Solutions & Data-Driven Innovation</i>
+
 
 <h2></h2>
 
@@ -24,7 +27,6 @@
 <h2></h2>
 
 <h2>ABOUT ME</h2>
-<b>MBA IT Management | BIS Clinical Informatics | PMP | CSM | CSPO</b>
 
 <br>
 
