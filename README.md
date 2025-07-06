@@ -1,4 +1,4 @@
-<h2>Lashawn Fofung MBA IT Management Portfolio</h2>
+<h2>Lashawn Fofung - MBA IT Management Portfolio</h2>
 
 <i>Driving Strategic Solutions & Data-Driven Innovation</i>
 
