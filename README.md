@@ -40,8 +40,13 @@ My work demonstrates a strong command of <b>data analytics</b> (Tableau, Power B
 - <b>MBA Capstone Project (Marketplace Simulation):</b>
     - Led all business functions for a simulated startup, developing comprehensive business strategies, securing venture capital, and optimizing operations to achieve significant growth.
     - This project showcases my proficiency in financial management, strategic planning, marketing, operations, and data-driven decision-making.
+    - To view Presentations:
+        - [Business Plan Presentation](https://youtu.be/fPxMes6A5BI)
+        - [Stockholder Report Presentation](https://youtu.be/c9PEnwB_V0w)
 - <b>Data-Driven Decision Making Projects:</b> 
     - Applied linear regression modeling to analyze nurse attrition rates (MS Excel Data Analysis ToolPak) and conducted decision tree analysis for pharmaceutical market strategy.
+    - To viewPresentation:
+      - [Data-Driven Decision Making MBA Project: Nurse Attrition Linear Regression Analysis](https://youtu.be/mEK-_1xrKpA)
 - <b>IT Strategic Solutions Project (Fofung Voyages):</b> 
     - Developed a strategic technology roadmap, including a data analytics platform proposal leveraging cloud-based data warehousing and BI tools, to enhance customer engagement and optimize marketing spend.
 
@@ -129,11 +134,5 @@ This portfolio reflects my commitment to transforming technological opportunitie
 
   
 <h2></h2>
-
-<h2>YOUTUBE VIDEOS</h2>
-
-- [Business Plan Presentation](https://youtu.be/fPxMes6A5BI)
-- [Stockholder Report Presentation](https://youtu.be/c9PEnwB_V0w)
-- [Data-Driven Decision Making MBA Project: Nurse Attrition Linear Regression Analysis](https://youtu.be/mEK-_1xrKpA)
 
  
