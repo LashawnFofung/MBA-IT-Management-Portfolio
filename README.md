@@ -25,22 +25,19 @@
 <h2></h2>
 
 <h2>ABOUT ME</h2>
-MBA IT Management | BIS Clinical Informatics | PMP | CSM | CSPO
+<b>MBA IT Management | BIS Clinical Informatics | PMP | CSM | CSPO</b>
 
 <br>
 
-This portfolio showcases my expertise as an MBA in IT Management professional, focused on leveraging strategic thinking and data analytics to drive business value. As a PMP, CSM, CSPO-certified Agile leader, I excel in managing complex IT projects and optimizing product delivery.
+This portfolio showcases my expertise as an <b>MBA in IT Management</b> professional, focused on leveraging strategic thinking and data analytics to drive business value. As a <b>PMP, CSM, CSPO-certified Agile leader,</b> I excel in managing complex IT projects and optimizing product delivery.
 
-My work demonstrates a strong command of data analytics (Tableau, Power BI, SQL, Excel) for actionable insights, as well as hands-on experience in Agile methodologies and software development lifecycle (SDLC). Key highlights include:
+My work demonstrates a strong command of <b>data analytics</b> (Tableau, Power BI, SQL, Excel) for actionable insights, as well as hands-on experience in <b>Agile methodologies</b> and <b>software development lifecycle (SDLC).</b> Key highlights include:
 
-MBA Capstone Project (Marketplace Simulation): Led all business functions for a simulated startup, developing comprehensive business strategies, securing venture capital, and optimizing operations to achieve significant growth. This project showcases my proficiency in financial management, strategic planning, marketing, operations, and data-driven decision-making.
+    - <b>MBA Capstone Project (Marketplace Simulation):</b> Led all business functions for a simulated startup, developing comprehensive business strategies, securing venture capital, and optimizing operations to achieve significant growth. This project showcases my proficiency in financial management, strategic planning, marketing, operations, and data-driven decision-making.
 
+    - <b>Data-Driven Decision Making Projects:</b> Applied <b>linear regression modeling</b> to analyze nurse attrition rates (MS Excel Data Analysis ToolPak) and conducted <b>decision tree analysis</b> for pharmaceutical market strategy.
 
-Data-Driven Decision Making Projects: Applied linear regression modeling to analyze nurse attrition rates (MS Excel Data Analysis ToolPak) and conducted 
-
-decision tree analysis for pharmaceutical market strategy.
-
-IT Strategic Solutions Project (Fofung Voyages): Developed a strategic technology roadmap, including a data analytics platform proposal leveraging cloud-based data warehousing and BI tools, to enhance customer engagement and optimize marketing spend.
+    - <b>IT Strategic Solutions Project (Fofung Voyages):</b> Developed a strategic technology roadmap, including a data analytics platform proposal leveraging cloud-based data warehousing and BI tools, to enhance customer engagement and optimize marketing spend.
 
 This portfolio reflects my commitment to transforming technological opportunities into tangible business value and fostering high-performing teams.
 
