@@ -33,13 +33,18 @@ This portfolio showcases my expertise as an <b>MBA in IT Management</b> professi
 
 My work demonstrates a strong command of <b>data analytics</b> (Tableau, Power BI, SQL, Excel) for actionable insights, as well as hands-on experience in <b>Agile methodologies</b> and <b>software development lifecycle (SDLC).</b> 
 
+<br>
+
 Key highlights include:
-
-        - <b>MBA Capstone Project (Marketplace Simulation):</b> Led all business functions for a simulated startup, developing comprehensive business strategies, securing venture capital, and optimizing operations to achieve significant growth. This project showcases my proficiency in financial management, strategic planning, marketing, operations, and data-driven decision-making.
-
-    - <b>Data-Driven Decision Making Projects:</b> Applied <b>linear regression modeling</b> to analyze nurse attrition rates (MS Excel Data Analysis ToolPak) and conducted <b>decision tree analysis</b> for pharmaceutical market strategy.
-
-    - <b>IT Strategic Solutions Project (Fofung Voyages):</b> Developed a strategic technology roadmap, including a data analytics platform proposal leveraging cloud-based data warehousing and BI tools, to enhance customer engagement and optimize marketing spend.
+    
+    - MBA Capstone Project (Marketplace Simulation):
+        - Led all business functions for a simulated startup, developing comprehensive business strategies, securing venture capital, and optimizing operations to achieve significant growth. 
+        - This project showcases my proficiency in financial management, strategic planning, marketing, operations, and data-driven decision-making.
+    
+    - <b>Data-Driven Decision Making Projects:</b> 
+        - Applied linear regression modeling to analyze nurse attrition rates (MS Excel Data Analysis ToolPak) and conducted decision tree analysis for pharmaceutical market strategy.
+    - <b>IT Strategic Solutions Project (Fofung Voyages):</b> 
+        - Developed a strategic technology roadmap, including a data analytics platform proposal leveraging cloud-based data warehousing and BI tools, to enhance customer engagement and optimize marketing spend.
 
 This portfolio reflects my commitment to transforming technological opportunities into tangible business value and fostering high-performing teams.
 
