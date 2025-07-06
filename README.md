@@ -1,7 +1,8 @@
-# MBA-IT-Management-Portfolio
+<h2>Lashawn Fofung - MBA IT Management Portfolio</h2>
 
-<h1>Lashawn Fofung - Portfolio</h1>
+
 MBA IT Management | BIS Clinical Informatics | PMP | CSM | CSPO
+
 <h2></h2>
 
 <h2>TABLE OF CONTENTS</h2> 
