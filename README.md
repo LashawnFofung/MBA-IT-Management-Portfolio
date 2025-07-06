@@ -59,7 +59,7 @@ This portfolio reflects my commitment to transforming technological opportunitie
 
 <h3>Analyzing the Drug Market</h3>
          
-**Code:** [Drug Market Analysis](https://github.com/LashawnFofung/Drug-Market-Analysis)
+**REPO:** [Drug Market Analysis](https://github.com/LashawnFofung/Drug-Market-Analysis)
          
 **Goal:** To determine which strategy, new drug development or existing drug modification, will maximize expected financial value for Major Pharmaceutical Company (MPC) amidst market uncertainty and new competition.
          
@@ -78,7 +78,7 @@ This portfolio reflects my commitment to transforming technological opportunitie
 
 <h3>Analyzing the Impact of Wellness Participation on Nurse Attrition Rate</h3>
             
-**Code:** [Nurse Attrition Linear Regression Analysis](https://github.com/LashawnFofung/Nurse-Attrition-Linear-Regression-Analysis)
+**REPO:** [Nurse Attrition Linear Regression Analysis](https://github.com/LashawnFofung/Nurse-Attrition-Linear-Regression-Analysis)
             
 **Goal:** To determine what factors contribute to nurse attrition, specifically evaluating the impact of an Employee Well-being Program on nurse retention within a major healthcare system
             
@@ -94,7 +94,7 @@ This portfolio reflects my commitment to transforming technological opportunitie
 
 <h3> FO Tread Bikes (Conscious Capitalism)</h3>
           
-**Code:** [FO Tread Bikes](https://github.com/LashawnFofung/FO-Tread-Bikes)
+**REPO:** [FO Tread Bikes](https://github.com/LashawnFofung/FO-Tread-Bikes)
             
 **Goal:** To determine what factors contribute to sustainable market share growth, optimized financial performance, and overall business success within a dynamic and competitive bicycle manufacturing simulation.
             
