@@ -13,7 +13,7 @@ MBA IT Management | BIS Clinical Informatics | PMP | CSM | CSPO
 - <b>[PROJECTS](https://github.com/LashawnFofung/MBA-IT-Management-Portfolio/blob/main/README.md#projects)</b>
 
     - <b>Data</b>
-        - Excel
+        - <b>Excel</b>
           - [Analyzing the Drug Market Project](https://github.com/LashawnFofung/MBA-IT-Management-Portfolio/blob/main/README.md#analyzing-the-drug-market)
           - [Nurse Attrition Linear Regression Analysis Project](https://github.com/LashawnFofung/MBA-IT-Management-Portfolio/blob/main/README.md#analyzing-the-impact-of-wellness-participation-on-nurse-attrition-rate)
           - [FO Tread Bikes (MBA Capstone Conscious Capitalism) Project](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#-fo-tread-bikes-conscious-capitalism)
