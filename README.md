@@ -40,7 +40,7 @@ My work demonstrates a strong command of <b>data analytics</b> (Tableau, Power B
 
 
 - <b>Data-Driven Decision Making Projects:</b>
-    - [Analyzing the Drug Market Project](https://github.com/LashawnFofung/MBA-IT-Management-Portfolio/blob/main/README.md#analyzing-the-drug-market)
+    - <b>Analyzing the Drug Market Project</b>
         - <b>Review Repo:</b> [HERE](https://github.com/LashawnFofung/Drug-Market-Analysis)
         - <b>Goal:</b> To determine which strategy, new drug development or existing drug modification, will maximize expected financial value for Major Pharmaceutical Company (MPC) amidst market uncertainty and new competition.
         - <b>Description:</b> The project focused on analyzing a dataset related to drug line development strategies for Major Pharmaceutical Company (MPC). It involved evaluating potential outcomes, probabilities, and payoffs for three strategic actions: new drug development, existing drug modification, and no change. The analysis aimed to provide a data-driven recommendation for MPC's drug line development plan, minimizing risk and maximizing potential returns in a complex market. 
