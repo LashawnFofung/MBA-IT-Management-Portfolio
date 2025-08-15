@@ -46,6 +46,7 @@ My work demonstrates a strong command of <b>data analytics</b> (Tableau, Power B
     - Strategic Growth and Financial Performance in a Conscious Capitalism Startup to achieve a total performance score of 12.487 by Quarter 6, consistently outperforming the industry average in financial performance and maintaining a perfect 1.000 financial risk score through data-driven decisions enabled by KPI reporting and a business intelligence dashboard.
     - Led all business functions for a simulated startup, developing comprehensive business strategies, securing venture capital, and optimizing operations to achieve significant growth.
     - This project showcases my proficiency in financial management, strategic planning, marketing, operations, and data-driven decision-making.
+    - Review Repo: [HERE](https://github.com/LashawnFofung/FO-Tread-Bikes)
     - To view Presentations:
         - [Business Plan Presentation](https://youtu.be/fPxMes6A5BI)
         - [Stockholder Report Presentation](https://youtu.be/c9PEnwB_V0w)
