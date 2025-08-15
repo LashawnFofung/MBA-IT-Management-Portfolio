@@ -29,10 +29,11 @@ My work demonstrates a strong command of <b>data analytics</b> (Tableau, Power B
 
 - <h3>MBA Capstone Project (<i>Marketplace Simulation</i>)- FO Tread Bikes:</h3>
     <i>Executed strategic business management and data-driven leadership in an MBA Capstone Marketplace Simulation using Excel, PowerPoint, and Marketplace KPI dashboard.</i>
+    
     - Strategic Growth and Financial Performance in a Conscious Capitalism Startup to achieve a total performance score of 12.487 by Quarter 6, consistently outperforming the industry average in financial performance and maintaining a perfect 1.000 financial risk score through data-driven decisions enabled by KPI reporting and a business intelligence dashboard.
     - Led all business functions for a simulated startup, developing comprehensive business strategies, securing venture capital, and optimizing operations to achieve significant growth.
     - This project showcases my proficiency in financial management, strategic planning, marketing, operations, and data-driven decision-making.
-    - Review Repo: [HERE](https://github.com/LashawnFofung/FO-Tread-Bikes)
+    - <b>Review Repo:</b> [HERE](https://github.com/LashawnFofung/FO-Tread-Bikes)
     - To view Presentations:
         - [Business Plan Presentation](https://youtu.be/fPxMes6A5BI)
         - [Stockholder Report Presentation](https://youtu.be/c9PEnwB_V0w)
@@ -40,7 +41,7 @@ My work demonstrates a strong command of <b>data analytics</b> (Tableau, Power B
 
 - <b>Data-Driven Decision Making Projects:</b>
     - [Analyzing the Drug Market Project](https://github.com/LashawnFofung/MBA-IT-Management-Portfolio/blob/main/README.md#analyzing-the-drug-market)
-        - Review Repor: [HERE](https://github.com/LashawnFofung/Drug-Market-Analysis)
+        - <b>Review Repo:</b> [HERE](https://github.com/LashawnFofung/Drug-Market-Analysis)
         - <b>Goal:</b> To determine which strategy, new drug development or existing drug modification, will maximize expected financial value for Major Pharmaceutical Company (MPC) amidst market uncertainty and new competition.
         - <b>Description:</b> The project focused on analyzing a dataset related to drug line development strategies for Major Pharmaceutical Company (MPC). It involved evaluating potential outcomes, probabilities, and payoffs for three strategic actions: new drug development, existing drug modification, and no change. The analysis aimed to provide a data-driven recommendation for MPC's drug line development plan, minimizing risk and maximizing potential returns in a complex market. 
   
