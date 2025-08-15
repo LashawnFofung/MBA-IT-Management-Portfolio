@@ -44,7 +44,7 @@ My work demonstrates a strong command of <b>data analytics</b> (Tableau, Power B
         - <b>Goal:</b> To determine which strategy, new drug development or existing drug modification, will maximize expected financial value for Major Pharmaceutical Company (MPC) amidst market uncertainty and new competition.
         - <b>Description:</b> The project focused on analyzing a dataset related to drug line development strategies for Major Pharmaceutical Company (MPC). It involved evaluating potential outcomes, probabilities, and payoffs for three strategic actions: new drug development, existing drug modification, and no change. The analysis aimed to provide a data-driven recommendation for MPC's drug line development plan, minimizing risk and maximizing potential returns in a complex market. 
   
-    - [Nurse Attrition Linear Regression Analysis Project](https://github.com/LashawnFofung/MBA-IT-Management-Portfolio/blob/main/README.md#analyzing-the-impact-of-wellness-participation-on-nurse-attrition-rate)
+    - <b>Nurse Attrition Linear Regression Analysis Project</b>
         - Applied linear regression modeling to analyze nurse attrition rates (MS Excel Data Analysis ToolPak) and conducted decision tree analysis for pharmaceutical market strategy.
         - To viewPresentation:
           - [Data-Driven Decision Making MBA Project: Nurse Attrition Linear Regression Analysis](https://youtu.be/mEK-_1xrKpA)
