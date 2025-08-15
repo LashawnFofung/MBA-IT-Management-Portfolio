@@ -17,6 +17,8 @@ MBA IT Management | BIS Clinical Informatics | PMP | CSM | CSPO
           - [Analyzing the Drug Market Project](https://github.com/LashawnFofung/MBA-IT-Management-Portfolio/blob/main/README.md#analyzing-the-drug-market)
           - [Nurse Attrition Linear Regression Analysis Project](https://github.com/LashawnFofung/MBA-IT-Management-Portfolio/blob/main/README.md#analyzing-the-impact-of-wellness-participation-on-nurse-attrition-rate)
           - [FO Tread Bikes (MBA Capstone Conscious Capitalism) Project](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#-fo-tread-bikes-conscious-capitalism)
+
+   <br>
    
     - <b>Strategy, Marketing, Finance, Accounting</b>
       - [FO Tread Bikes (MBA Capstone Conscious Capitalism) Project](https://github.com/LashawnFofung/MBA-IT-Management-Portfolio/blob/main/README.md#-fo-tread-bikes-conscious-capitalism)
@@ -39,6 +41,9 @@ My work demonstrates a strong command of <b>data analytics</b> (Tableau, Power B
 <b>Key highlights include:</b>
 
 - <b>MBA Capstone Project (Marketplace Simulation):</b>
+
+    <i>Executed strategic business management and data-driven leadership in an MBA Capstone Marketplace Simulation using Excel, PowerPoint, and Marketplace KPI dashboard.</i>
+    - Strategic Growth and Financial Performance in a Conscious Capitalism Startup to achieve a total performance score of 12.487 by Quarter 6, consistently outperforming the industry average in financial performance and maintaining a perfect 1.000 financial risk score through data-driven decisions enabled by KPI reporting and a business intelligence dashboard.
     - Led all business functions for a simulated startup, developing comprehensive business strategies, securing venture capital, and optimizing operations to achieve significant growth.
     - This project showcases my proficiency in financial management, strategic planning, marketing, operations, and data-driven decision-making.
     - To view Presentations:
