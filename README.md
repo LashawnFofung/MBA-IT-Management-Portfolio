@@ -27,7 +27,7 @@ My work demonstrates a strong command of <b>data analytics</b> (Tableau, Power B
 
 <h2>PROJECTS</h2>
 
-- <h3>MBA Capstone Project (<i>Marketplace Simulation</i>)- FO Tread Bikes:</h3>
+- <b>MBA Capstone Project (<i>Marketplace Simulation</i>)- FO Tread Bikes:</b>
     <i>Executed strategic business management and data-driven leadership in an MBA Capstone Marketplace Simulation using Excel, PowerPoint, and Marketplace KPI dashboard.</i>
     
     - Strategic Growth and Financial Performance in a Conscious Capitalism Startup to achieve a total performance score of 12.487 by Quarter 6, consistently outperforming the industry average in financial performance and maintaining a perfect 1.000 financial risk score through data-driven decisions enabled by KPI reporting and a business intelligence dashboard.
@@ -47,6 +47,7 @@ My work demonstrates a strong command of <b>data analytics</b> (Tableau, Power B
   
     - <b>Nurse Attrition Linear Regression Analysis Project</b>
         - Applied linear regression modeling to analyze nurse attrition rates (MS Excel Data Analysis ToolPak) and conducted decision tree analysis for pharmaceutical market strategy.
+        - <b>Review Repo:</b> [HERE](https://github.com/LashawnFofung/Nurse-Attrition-Linear-Regression-Analysis)
         - To viewPresentation:
           - [Data-Driven Decision Making MBA Project: Nurse Attrition Linear Regression Analysis](https://youtu.be/mEK-_1xrKpA)
              
