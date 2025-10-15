@@ -27,6 +27,11 @@ My work demonstrates a strong command of <b>data analytics</b> (Tableau, Power B
 
 <h2>PROJECTS</h2>
 
+- <b>AI Digital Product Strategy</b>
+  This project documents an AI Digital Product Strategy centered on redefining news consumption for Gen Z. Driven by a nationwide user survey, my work provided direct, data-backed insights into Gen Z's preferences and revealed a crucial Personalization Paradox and Trust Crisis. The resulting strategy, AI Dimensional Personalization, moves the product from a generic feed to a trustworthy co-pilot by recommending three high-impact features focused on transparency, length, and format, directly addressing the core user frictions identified.
+  
+  - <b>Review Repo:</b> [HERE](https://github.com/LashawnFofung/Digital-Product-AI-Strategy)
+
 - <b>MBA Capstone Project (<i>Marketplace Simulation</i>)- FO Tread Bikes:</b>
     <i>Executed strategic business management and data-driven leadership in an MBA Capstone Marketplace Simulation using Excel, PowerPoint, and Marketplace KPI dashboard.</i>
     
