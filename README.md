@@ -37,6 +37,13 @@ Explore my repositories to see how I combine strategic leadership, certified pro
 
 <h2>PROJECTS</h2>
 
+- <b> AI-Powered Document Automation Platform</b>
+
+  This project is currently in-progress
+  - Start: October 2025
+    
+   - <b>Review Repo:</b> [HERE](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform)
+     
 - <b>AI Digital Product Strategy</b>
   This project documents an AI Digital Product Strategy centered on redefining news consumption for Gen Z. Driven by a nationwide user survey, my work provided direct, data-backed insights into Gen Z's preferences and revealed a crucial Personalization Paradox and Trust Crisis. The resulting strategy, AI Dimensional Personalization, moves the product from a generic feed to a trustworthy co-pilot by recommending three high-impact features focused on transparency, length, and format, directly addressing the core user frictions identified.
   
