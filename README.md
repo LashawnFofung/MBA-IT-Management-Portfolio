@@ -20,9 +20,18 @@ MBA IT Management | BIS Clinical Informatics | PMP | CSM | CSPO
 
 <br>
 
-This portfolio showcases my expertise as an <b>MBA in IT Management</b> professional, focused on leveraging strategic thinking and data analytics to drive business value. As a <b>PMP, CSM, CSPO-certified Agile leader,</b> I excel in managing complex IT projects and optimizing product delivery.
+<b>AI Product Architect & Certified Agile Leader (MBA, PMP, CSPO)</b>
+This portfolio showcases my expertise as a strategic MBA in IT Management professional who drives business value through technology and applied AI/ML. As a PMP, CSPO, CSM-certified Agile leader, I excel in managing complex IT projects, optimizing product delivery, and translating strategic vision into execution (proven by 25% team performance gains).
 
-My work demonstrates a strong command of <b>data analytics</b> (Tableau, Power BI, SQL, Excel) for actionable insights, as well as hands-on experience in <b>Agile methodologies</b> and <b>software development lifecycle (SDLC).</b> 
+My work demonstrates a strong command of cutting-edge technologies and foundational data skills:
+
+-<b>Generative AI Execution:</b> Actively building and implementing Retrieval-Augmented Generation (RAG) pipelines for Document Intelligence using Python and the Gemini API. I specialize in creating scalable automation, including pipelines that integrate Advanced OCR to process unstructured data.
+
+-<b>Strategic Product Management:</b> I merge technical execution with deep product strategy, ensuring that all solutions are aligned with measurable business outcomes. My experience as a former Clinical Liaison/LPN provides unique HealthTech domain expertise, ensuring user-centric design (validated by 98% CSAT scores).
+
+-<b>Data Analytics Toolkit:</b> I utilize robust data analytics skills (SQL, Tableau, Power BI, Excel) to move beyond reporting and deliver actionable, data-driven insights that inform critical decisions.
+
+Explore my repositories to see how I combine strategic leadership, certified project rigor, and hands-on AI development to solve real-world problems. 
 
 
 <h2>PROJECTS</h2>
