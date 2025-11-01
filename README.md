@@ -26,11 +26,11 @@ This portfolio showcases my expertise as a strategic MBA in IT Management profes
 
 My work demonstrates a strong command of cutting-edge technologies and foundational data skills:
 
--<b>Generative AI Execution:</b> Actively building and implementing Retrieval-Augmented Generation (RAG) pipelines for Document Intelligence using Python and the Gemini API. I specialize in creating scalable automation, including pipelines that integrate Advanced OCR to process unstructured data.
+- <b>Generative AI Execution:</b> Actively building and implementing Retrieval-Augmented Generation (RAG) pipelines for Document Intelligence using Python and the Gemini API. I specialize in creating scalable automation, including pipelines that integrate Advanced OCR to process unstructured data.
 
--<b>Strategic Product Management:</b> I merge technical execution with deep product strategy, ensuring that all solutions are aligned with measurable business outcomes. My experience as a former Clinical Liaison/LPN provides unique HealthTech domain expertise, ensuring user-centric design (validated by 98% CSAT scores).
+- <b>Strategic Product Management:</b> I merge technical execution with deep product strategy, ensuring that all solutions are aligned with measurable business outcomes. My experience as a former Clinical Liaison/LPN provides unique HealthTech domain expertise, ensuring user-centric design (validated by 98% CSAT scores).
 
--<b>Data Analytics Toolkit:</b> I utilize robust data analytics skills (SQL, Tableau, Power BI, Excel) to move beyond reporting and deliver actionable, data-driven insights that inform critical decisions.
+- <b>Data Analytics Toolkit:</b> I utilize robust data analytics skills (SQL, Tableau, Power BI, Excel) to move beyond reporting and deliver actionable, data-driven insights that inform critical decisions.
 
 Explore my repositories to see how I combine strategic leadership, certified project rigor, and hands-on AI development to solve real-world problems. 
 
