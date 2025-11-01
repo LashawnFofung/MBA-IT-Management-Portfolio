@@ -40,7 +40,7 @@ Explore my repositories to see how I combine strategic leadership, certified pro
 - <b> AI-Powered Document Automation Platform</b>
 
   This project is currently in-progress. This repository documents the development of an end-to-end AI-powered document automation platform designed to save businesses thousands of operational hours. It showcases skills in advanced data extraction, OCR comparison, Retrieval-Augmented Generation (RAG) architecture, and building user interfaces with Python and Gradio.
-  - <b>Start:/b> October 2025
+  - <b>Start:</b> October 2025
     
    - <b>Review Repo:</b> [HERE](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform)
      
