@@ -21,6 +21,7 @@ MBA IT Management | BIS Clinical Informatics | PMP | CSM | CSPO
 <br>
 
 <b>AI Product Architect & Certified Agile Leader (MBA, PMP, CSPO)</b>
+
 This portfolio showcases my expertise as a strategic MBA in IT Management professional who drives business value through technology and applied AI/ML. As a PMP, CSPO, CSM-certified Agile leader, I excel in managing complex IT projects, optimizing product delivery, and translating strategic vision into execution (proven by 25% team performance gains).
 
 My work demonstrates a strong command of cutting-edge technologies and foundational data skills:
