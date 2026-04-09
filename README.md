@@ -83,6 +83,7 @@ An AI Agent Engineering project developed for the Wayfair Business Intelligence 
         - [Business Plan Presentation](https://youtu.be/fPxMes6A5BI)
         - [Stockholder Report Presentation](https://youtu.be/c9PEnwB_V0w)
 
+<br><br>
 
 - <b>Data-Driven Decision Making Projects:</b>
     - <b>Analyzing the Drug Market Project</b>
