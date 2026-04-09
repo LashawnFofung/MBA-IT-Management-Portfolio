@@ -45,10 +45,10 @@ An AI Agent Engineering project developed for the Wayfair Business Intelligence 
 - <b>Start:</b> March 2026 to (In-progress)
 
   - <b>Review Repo:</b> [HERE](https://github.com/LashawnFofung/Wayfair-Agentic-BI)
-    -   Product Requirement Documents:
-        - [Moodboard AI Agent](https://github.com/LashawnFofung/Wayfair-Agentic-BI/blob/main/Product%20Requirement%20Document%20(PRD)/PRD%20-%20Moodboard%20AI%20Agent.md)
-        - [Market Trend Discovery AI Agent](https://github.com/LashawnFofung/Wayfair-Agentic-BI/blob/main/Product%20Requirement%20Document%20(PRD)/PRD%20-%20Market%20Trend%20Discovery%20AI%20Agent.md)
-        - [Competitor Monitoring AI Agent](https://github.com/LashawnFofung/Wayfair-Agentic-BI/blob/main/Product%20Requirement%20Document%20(PRD)/PRD%20-%20Competitor%20Monitoring%20AI%20Agent.md)    
+  - <b>Product Requirement Documents:</b>
+      - [Moodboard AI Agent](https://github.com/LashawnFofung/Wayfair-Agentic-BI/blob/main/Product%20Requirement%20Document%20(PRD)/PRD%20-%20Moodboard%20AI%20Agent.md)
+      - [Market Trend Discovery AI Agent](https://github.com/LashawnFofung/Wayfair-Agentic-BI/blob/main/Product%20Requirement%20Document%20(PRD)/PRD%20-%20Market%20Trend%20Discovery%20AI%20Agent.md)
+      - [Competitor Monitoring AI Agent](https://github.com/LashawnFofung/Wayfair-Agentic-BI/blob/main/Product%20Requirement%20Document%20(PRD)/PRD%20-%20Competitor%20Monitoring%20AI%20Agent.md)    
 
 
 <br><br>
