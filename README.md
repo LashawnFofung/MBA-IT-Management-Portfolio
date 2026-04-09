@@ -38,10 +38,26 @@ Explore my repositories to see how I combine strategic leadership, certified pro
 
 <h2>PROJECTS</h2>
 
+- <b> Wayfair Agentic BI</b>
+
+An AI Agent Engineering project developed for the Wayfair Business Intelligence Externship. This repository features a suite of automated agents built with n8n and Gemini to perform market trend analysis, competitor benchmarking, and automated visual moodboard generation, culminating in a live Market Intelligence Dashboard.
+
+- <b>Start:</b> March 2026 to (In-progress)
+
+  - <b>Review Repo:</b> [HERE](https://github.com/LashawnFofung/Wayfair-Agentic-BI)
+    -   Product Requirement Documents:
+      - [Moodboard AI Agent](https://github.com/LashawnFofung/Wayfair-Agentic-BI/blob/main/Product%20Requirement%20Document%20(PRD)/PRD%20-%20Moodboard%20AI%20Agent.md)
+      - [Market Trend Discovery AI Agent]()
+      - [Competitor Monitoring AI Agent]()    
+
+
+<br>
+
 - <b> AI-Powered Document Automation Platform</b>
 
-  This project is currently in-progress. This repository documents the development of an end-to-end AI-powered document automation platform designed to save businesses thousands of operational hours. It showcases skills in advanced data extraction, OCR comparison, Retrieval-Augmented Generation (RAG) architecture, and building user interfaces with Python and Gradio.
+ This repository documents the development of an end-to-end AI-powered document automation platform designed to save businesses thousands of operational hours. It showcases skills in advanced data extraction, OCR comparison, Retrieval-Augmented Generation (RAG) architecture, and building user interfaces with Python and Gradio.
   - <b>Start:</b> October 2025
+  - <b>End:</b> January 2026
     
    - <b>Review Repo:</b> [HERE](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform)
      
