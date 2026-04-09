@@ -46,12 +46,13 @@ An AI Agent Engineering project developed for the Wayfair Business Intelligence 
 
   - <b>Review Repo:</b> [HERE](https://github.com/LashawnFofung/Wayfair-Agentic-BI)
     -   Product Requirement Documents:
-      - [Moodboard AI Agent](https://github.com/LashawnFofung/Wayfair-Agentic-BI/blob/main/Product%20Requirement%20Document%20(PRD)/PRD%20-%20Moodboard%20AI%20Agent.md)
-      - [Market Trend Discovery AI Agent]()
-      - [Competitor Monitoring AI Agent]()    
+        - [Moodboard AI Agent](https://github.com/LashawnFofung/Wayfair-Agentic-BI/blob/main/Product%20Requirement%20Document%20(PRD)/PRD%20-%20Moodboard%20AI%20Agent.md)
+        - [Market Trend Discovery AI Agent]()
+        - [Competitor Monitoring AI Agent]()    
 
 
-<br>
+<br><br>
+
 
 - <b> AI-Powered Document Automation Platform</b>
 
@@ -60,12 +61,16 @@ An AI Agent Engineering project developed for the Wayfair Business Intelligence 
   - <b>End:</b> January 2026
     
    - <b>Review Repo:</b> [HERE](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform)
-     
+
+<br><br>
+
 - <b>AI Digital Product Strategy</b>
   This project documents an AI Digital Product Strategy centered on redefining news consumption for Gen Z. Driven by a nationwide user survey, my work provided direct, data-backed insights into Gen Z's preferences and revealed a crucial Personalization Paradox and Trust Crisis. The resulting strategy, AI Dimensional Personalization, moves the product from a generic feed to a trustworthy co-pilot by recommending three high-impact features focused on transparency, length, and format, directly addressing the core user frictions identified.
   
   - <b>Review Repo:</b> [HERE](https://github.com/LashawnFofung/Digital-Product-AI-Strategy)
   - <b>Review Pitch Deck:</b> [HERE](https://github.com/LashawnFofung/Digital-Product-AI-Strategy/blob/main/News%20Corp%20Gen%20Z%20Consumer%20Insight.pptx)
+
+<br><br>
 
 - <b>MBA Capstone Project (<i>Marketplace Simulation</i>)- FO Tread Bikes:</b>
     <i>Executed strategic business management and data-driven leadership in an MBA Capstone Marketplace Simulation using Excel, PowerPoint, and Marketplace KPI dashboard.</i>
