@@ -37,7 +37,7 @@ My work is defined by three core pillars:
 
 <h2>PROJECTS</h2>
 
-- <b> Wayfair Agentic BI</b>
+<b> Wayfair Agentic BI</b>
 
 **March 2026 – Present** 
 
@@ -48,9 +48,9 @@ Architected an autonomous agent ecosystem using n8n and Gemini to transform comp
 - [Review Repo](https://github.com/LashawnFofung/Wayfair-Agentic-BI) | [Moodboard AI Agent PRD](https://github.com/LashawnFofung/Wayfair-Agentic-BI/blob/main/Product%20Requirement%20Document%20(PRD)/PRD%20-%20Moodboard%20AI%20Agent.md) | [Market Trend Discovery AI Agent PRD](https://github.com/LashawnFofung/Wayfair-Agentic-BI/blob/main/Product%20Requirement%20Document%20(PRD)/PRD%20-%20Market%20Trend%20Discovery%20AI%20Agent.md) | [Competitor Monitoring AI Agent PRD](https://github.com/LashawnFofung/Wayfair-Agentic-BI/blob/main/Product%20Requirement%20Document%20(PRD)/PRD%20-%20Competitor%20Monitoring%20AI%20Agent.md)    
 
 
-<br><br>
+<br>
 
-- <b> AI-Powered Document Automation Platform</b>
+<b> AI-Powered Document Automation Platform</b>
 
 **October 2025 – January 2026 Top Performer Award (Top 10%)**
 
@@ -60,9 +60,9 @@ Developed a production-ready Intelligent Document Processing (IDP) system that e
     
    - [Review Repo](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform)
 
-<br><br>
+<br>
 
-- <b>AI Digital Product Strategy</b>
+<b>AI Digital Product Strategy</b>
 **August 2025 – October 2025**
 
 Conducted deep audience research to solve the "Trust Crisis" in news consumption for Gen Z. Proposed **AI Dimensional Personalization**, moving products from generic feeds to trustworthy AI co-pilots.
@@ -71,20 +71,17 @@ Conducted deep audience research to solve the "Trust Crisis" in news consumption
 
 - [Review Repo](https://github.com/LashawnFofung/Digital-Product-AI-Strategy) | [Review Pitch Deck](https://github.com/LashawnFofung/Digital-Product-AI-Strategy/blob/main/News%20Corp%20Gen%20Z%20Consumer%20Insight.pptx)
 
-<br><br>
+<br>
 
-- <b>MBA Capstone Project (<i>Marketplace Simulation</i>)- FO Tread Bikes:</b>
-    <i>Executed strategic business management and data-driven leadership in an MBA Capstone Marketplace Simulation using Excel, PowerPoint, and Marketplace KPI dashboard.</i>
-    
-    - Strategic Growth and Financial Performance in a Conscious Capitalism Startup to achieve a total performance score of 12.487 by Quarter 6, consistently outperforming the industry average in financial performance and maintaining a perfect 1.000 financial risk score through data-driven decisions enabled by KPI reporting and a business intelligence dashboard.
-    - Led all business functions for a simulated startup, developing comprehensive business strategies, securing venture capital, and optimizing operations to achieve significant growth.
-    - This project showcases my proficiency in financial management, strategic planning, marketing, operations, and data-driven decision-making.
-    - <b>Review Repo:</b> [HERE](https://github.com/LashawnFofung/FO-Tread-Bikes)
-    - To view Presentations:
-        - [Business Plan Presentation](https://youtu.be/fPxMes6A5BI)
-        - [Stockholder Report Presentation](https://youtu.be/c9PEnwB_V0w)
+<b>MBA Capstone - FO Tread Bikes:</b>
+**April 2025 – June 2025**
 
-<br><br>
+Led a conscious capitalism startup simulation, achieving a total performance score of 12.487 and a perfect 1.000 financial risk score.
+
+- **Focus:** Financial management, strategic scaling, and KPI reporting via BI dashboards.
+- [Review Repo](https://github.com/LashawnFofung/FO-Tread-Bikes) | [Business Plan Presentation](https://youtu.be/fPxMes6A5BI) | [Stockholder Report Presentation](https://youtu.be/c9PEnwB_V0w)
+
+<br>
 
 - <b>Data-Driven Decision Making Projects:</b>
     - <b>Analyzing the Drug Market Project</b>
