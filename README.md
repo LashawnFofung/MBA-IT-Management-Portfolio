@@ -2,7 +2,7 @@
 
 MBA IT Management | BIS Clinical Informatics | PMP | CSM | CSPO
 
-<i>Driving Strategic Solutions & Data-Driven Innovation</i>
+<i>Strategic AI Product Leader | Bridging Clinical Precision & Intelligent Automation</i>
 
 
 <h2></h2>
