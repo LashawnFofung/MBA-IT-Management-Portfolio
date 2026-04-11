@@ -23,18 +23,15 @@ MBA IT Management | BIS Clinical Informatics | PMP | CSM | CSPO
 
 <b>AI Product Architect & Certified Agile Leader (MBA, PMP, CSPO)</b>
 
-This portfolio showcases my expertise as a strategic MBA in IT Management professional who drives business value through technology and applied AI/ML. As a PMP, CSPO, CSM-certified Agile leader, I excel in managing complex IT projects, optimizing product delivery, and translating strategic vision into execution (proven by 25% team performance gains).
+This portfolio showcases my expertise as a strategic **Associate Technical Product Manager** who bridges the gap between complex engineering and high-impact business value. With an **MBA in IT Management** and a suite of Agile certifications (**PMP, CSPO, CSM**), I specialize in architecting production-ready AI solutions and managing cross-functional teams to drive measurable growth.
 
-My work demonstrates a strong command of cutting-edge technologies and foundational data skills:
+My work is defined by three core pillars:
 
-- <b>Generative AI Execution:</b> Actively building and implementing Retrieval-Augmented Generation (RAG) pipelines for Document Intelligence using Python and the Gemini API. I specialize in creating scalable automation, including pipelines that integrate Advanced OCR to process unstructured data.
+- **Applied AI & Agentic Workflows:** I architect end-to-end **Agentic BI ecosystems** and **RAG pipelines** using Python, n8n, and the Gemini API. My focus is on automating market intelligence and document extraction through multi-LLM orchestration (Gemini, Mistral, Phi-2).
 
-- <b>Strategic Product Management:</b> I merge technical execution with deep product strategy, ensuring that all solutions are aligned with measurable business outcomes. My experience as a former Clinical Liaison/LPN provides unique HealthTech domain expertise, ensuring user-centric design (validated by 98% CSAT scores).
+- **Strategic Product Leadership:** I translate executive vision into high-integrity product backlogs. Whether leading digital enrollment enhancements at Optum or proposing AI strategies for News Corp, I ensure every technical sprint aligns with 100% of business objectives.
 
-- <b>Data Analytics Toolkit:</b> I utilize robust data analytics skills (SQL, Tableau, Power BI, Excel) to move beyond reporting and deliver actionable, data-driven insights that inform critical decisions.
-
-Explore my repositories to see how I combine strategic leadership, certified project rigor, and hands-on AI development to solve real-world problems. 
-
+- **Data-Driven Decision Making:** Leveraging a background as a **Clinical Liaison**, I apply high-stakes rigor to data analysis. I utilize **SQL, Tableau, and Power BI** to transform raw metrics into actionable insights, consistently delivering user-centric solutions validated by **98% CSAT scores**.
 
 <h2>PROJECTS</h2>
 
