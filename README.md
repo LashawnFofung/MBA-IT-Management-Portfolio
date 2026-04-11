@@ -89,7 +89,9 @@ Led a conscious capitalism startup simulation, achieving a total performance sco
 ### Data-Driven Decision Making Projects
 - **Analyzing the Drug Market:** Evaluated payoffs and risks for pharmaceutical strategies to maximize financial value amidst market uncertainty.
     - [Review Repo](https://github.com/LashawnFofung/Drug-Market-Analysis)
-       
+
+<br>
+
 - **Nurse Attrition Analysis Project** Applied linear regression modeling (Excel ToolPak) to identify key drivers of clinical staff turnover.
       
     - [Review Repo](https://github.com/LashawnFofung/Nurse-Attrition-Linear-Regression-Analysis)
