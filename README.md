@@ -14,8 +14,8 @@ MBA IT Management | BIS Clinical Informatics | PMP | CSM | CSPO
 - <b>[CERTIFICATIONS](https://github.com/LashawnFofung/MBA-IT-Management-Portfolio/blob/main/README.md#certifications)</b>
 - <b>[CONTACT](https://github.com/LashawnFofung/MBA-IT-Management-Portfolio/blob/main/README.md#contact)</b>
 - <b>[Data Analysis Portfolio](https://github.com/LashawnFofung/Data-Analysis-Portfolio)</b>
-- <b>[AI Portfolio](https://github.com/LashawnFofung/AI-Portfolio)
-- <b>[My Main Portfolio Link](https://github.com/LashawnFofung)
+- <b>[AI Portfolio](https://github.com/LashawnFofung/AI-Portfolio)</b>
+- <b>[My Main Portfolio Link](https://github.com/LashawnFofung)</b>
 
 
 <h2></h2>
