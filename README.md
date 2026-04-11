@@ -50,22 +50,26 @@ Architected an autonomous agent ecosystem using n8n and Gemini to transform comp
 
 <br><br>
 
-
 - <b> AI-Powered Document Automation Platform</b>
 
- This repository documents the development of an end-to-end AI-powered document automation platform designed to save businesses thousands of operational hours. It showcases skills in advanced data extraction, OCR comparison, Retrieval-Augmented Generation (RAG) architecture, and building user interfaces with Python and Gradio.
-  - <b>Start:</b> October 2025
-  - <b>End:</b> January 2026
+**October 2025 – January 2026 Top Performer Award (Top 10%)**
+
+Developed a production-ready Intelligent Document Processing (IDP) system that enables context-aware search and extraction over high-volume financial and legal documents.
+
+- **Tech Stack:** Python, RAG (LlamaIndex, FAISS), Computer Vision (PaddleOCR), and Gradio.
     
-   - <b>Review Repo:</b> [HERE](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform)
+   - [Review Repo](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform)
 
 <br><br>
 
 - <b>AI Digital Product Strategy</b>
-  This project documents an AI Digital Product Strategy centered on redefining news consumption for Gen Z. Driven by a nationwide user survey, my work provided direct, data-backed insights into Gen Z's preferences and revealed a crucial Personalization Paradox and Trust Crisis. The resulting strategy, AI Dimensional Personalization, moves the product from a generic feed to a trustworthy co-pilot by recommending three high-impact features focused on transparency, length, and format, directly addressing the core user frictions identified.
-  
-  - <b>Review Repo:</b> [HERE](https://github.com/LashawnFofung/Digital-Product-AI-Strategy)
-  - <b>Review Pitch Deck:</b> [HERE](https://github.com/LashawnFofung/Digital-Product-AI-Strategy/blob/main/News%20Corp%20Gen%20Z%20Consumer%20Insight.pptx)
+**August 2025 – October 2025**
+
+Conducted deep audience research to solve the "Trust Crisis" in news consumption for Gen Z. Proposed **AI Dimensional Personalization**, moving products from generic feeds to trustworthy AI co-pilots.
+
+- **Outcome:** Identified a 42% trust deficit and proposed high-impact features to reduce the "Never Notice" rate by 20%.
+
+- [Review Repo](https://github.com/LashawnFofung/Digital-Product-AI-Strategy) | [Review Pitch Deck](https://github.com/LashawnFofung/Digital-Product-AI-Strategy/blob/main/News%20Corp%20Gen%20Z%20Consumer%20Insight.pptx)
 
 <br><br>
 
