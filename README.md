@@ -45,7 +45,7 @@ Architected an autonomous agent ecosystem using n8n and Gemini to transform comp
 
 - **Key Features:** Automated market trend discovery, competitor benchmarking, and visual moodboard generation for supply chain vendor management.
 
-- [Review Repo](https://github.com/LashawnFofung/Wayfair-Agentic-BI) |[Moodboard AI Agent PRD](https://github.com/LashawnFofung/Wayfair-Agentic-BI/blob/main/Product%20Requirement%20Document%20(PRD)/PRD%20-%20Moodboard%20AI%20Agent.md) | [Market Trend Discovery AI Agent](https://github.com/LashawnFofung/Wayfair-Agentic-BI/blob/main/Product%20Requirement%20Document%20(PRD)/PRD%20-%20Market%20Trend%20Discovery%20AI%20Agent.md) | [Competitor Monitoring AI Agent](https://github.com/LashawnFofung/Wayfair-Agentic-BI/blob/main/Product%20Requirement%20Document%20(PRD)/PRD%20-%20Competitor%20Monitoring%20AI%20Agent.md)    
+- [Review Repo](https://github.com/LashawnFofung/Wayfair-Agentic-BI) | [Moodboard AI Agent PRD](https://github.com/LashawnFofung/Wayfair-Agentic-BI/blob/main/Product%20Requirement%20Document%20(PRD)/PRD%20-%20Moodboard%20AI%20Agent.md) | [Market Trend Discovery AI Agent](https://github.com/LashawnFofung/Wayfair-Agentic-BI/blob/main/Product%20Requirement%20Document%20(PRD)/PRD%20-%20Market%20Trend%20Discovery%20AI%20Agent.md) | [Competitor Monitoring AI Agent](https://github.com/LashawnFofung/Wayfair-Agentic-BI/blob/main/Product%20Requirement%20Document%20(PRD)/PRD%20-%20Competitor%20Monitoring%20AI%20Agent.md)    
 
 
 <br><br>
