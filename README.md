@@ -15,6 +15,7 @@ MBA IT Management | BIS Clinical Informatics | PMP | CSM | CSPO
 - <b>[CONTACT](https://github.com/LashawnFofung/MBA-IT-Management-Portfolio/blob/main/README.md#contact)</b>
 - <b>[Data Analysis Portfolio](https://github.com/LashawnFofung/Data-Analysis-Portfolio)</b>
 
+
 <h2></h2>
 
 <h2>ABOUT ME</h2>
@@ -34,6 +35,8 @@ My work is defined by three core pillars:
 - **Strategic Product Leadership:** I translate executive vision into high-integrity product backlogs. Whether leading digital enrollment enhancements at Optum or proposing AI strategies for News Corp, I ensure every technical sprint aligns with 100% of business objectives.
 
 - **Data-Driven Decision Making:** Leveraging a background as a **Clinical Liaison**, I apply high-stakes rigor to data analysis. I utilize **SQL, Tableau, and Power BI** to transform raw metrics into actionable insights, consistently delivering user-centric solutions validated by **98% CSAT scores**.
+
+<h2></h2>
 
 <h2>PROJECTS</h2>
 
@@ -93,6 +96,8 @@ Led a conscious capitalism startup simulation, achieving a total performance sco
     - [ViewPresentation](https://youtu.be/mEK-_1xrKpA)
 
 
+<h2></h2>
+
 <h2>CERTIFICATIONS</h2>
 
 - [PMP® (Project Management Professional)](https://www.credly.com/badges/069386a1-7007-40f8-9773-f308e59e06db/public_url) 
@@ -106,6 +111,7 @@ Led a conscious capitalism startup simulation, achieving a total performance sco
 - **Oracle Certified AI Foundations Associate**
 
 
+<h2></h2>
 <h2>CONTACT</h2>
 
 - [LinkedIn](https://www.linkedin.com/in/lashawnfofung/)
