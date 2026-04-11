@@ -37,7 +37,7 @@ My work is defined by three core pillars:
 
 <h2>PROJECTS</h2>
 
-<b> Wayfair Agentic BI</b>
+### Wayfair Agentic BI
 
 **March 2026 – Present** 
 
@@ -50,7 +50,7 @@ Architected an autonomous agent ecosystem using n8n and Gemini to transform comp
 
 <br>
 
-<b> AI-Powered Document Automation Platform</b>
+### AI-Powered Document Automation Platform
 
 **October 2025 – January 2026 Top Performer Award (Top 10%)**
 
@@ -62,7 +62,7 @@ Developed a production-ready Intelligent Document Processing (IDP) system that e
 
 <br>
 
-<b>AI Digital Product Strategy</b>
+### AI Digital Product Strategy
 **August 2025 – October 2025**
 
 Conducted deep audience research to solve the "Trust Crisis" in news consumption for Gen Z. Proposed **AI Dimensional Personalization**, moving products from generic feeds to trustworthy AI co-pilots.
@@ -73,7 +73,7 @@ Conducted deep audience research to solve the "Trust Crisis" in news consumption
 
 <br>
 
-<b>MBA Capstone - FO Tread Bikes:</b>
+### MBA Capstone - FO Tread Bikes
 **April 2025 – June 2025**
 
 Led a conscious capitalism startup simulation, achieving a total performance score of 12.487 and a perfect 1.000 financial risk score.
@@ -83,35 +83,28 @@ Led a conscious capitalism startup simulation, achieving a total performance sco
 
 <br>
 
-- <b>Data-Driven Decision Making Projects:</b>
-    - <b>Analyzing the Drug Market Project</b>
-        - <b>Review Repo:</b> [HERE](https://github.com/LashawnFofung/Drug-Market-Analysis)
-        - <b>Goal:</b> To determine which strategy, new drug development or existing drug modification, will maximize expected financial value for Major Pharmaceutical Company (MPC) amidst market uncertainty and new competition.
-        - <b>Description:</b> The project focused on analyzing a dataset related to drug line development strategies for Major Pharmaceutical Company (MPC). It involved evaluating potential outcomes, probabilities, and payoffs for three strategic actions: new drug development, existing drug modification, and no change. The analysis aimed to provide a data-driven recommendation for MPC's drug line development plan, minimizing risk and maximizing potential returns in a complex market. 
-  
-    - <b>Nurse Attrition Linear Regression Analysis Project</b>
-        - Applied linear regression modeling to analyze nurse attrition rates (MS Excel Data Analysis ToolPak) and conducted decision tree analysis for pharmaceutical market strategy.
-        - <b>Review Repo:</b> [HERE](https://github.com/LashawnFofung/Nurse-Attrition-Linear-Regression-Analysis)
-        - To viewPresentation:
-          - [Data-Driven Decision Making MBA Project: Nurse Attrition Linear Regression Analysis](https://youtu.be/mEK-_1xrKpA)
-             
-
-This portfolio reflects my commitment to transforming technological opportunities into tangible business value and fostering high-performing teams.
-
-
-<h2></h2>  
+### Data-Driven Decision Making Projects
+- **Analyzing the Drug Market:** Evaluated payoffs and risks for pharmaceutical strategies to maximize financial value amidst market uncertainty.
+    - [Review Repo](https://github.com/LashawnFofung/Drug-Market-Analysis)
+       
+- **Nurse Attrition Analysis Project** Applied linear regression modeling (Excel ToolPak) to identify key drivers of clinical staff turnover.
+      
+    - [Review Repo](https://github.com/LashawnFofung/Nurse-Attrition-Linear-Regression-Analysis)
+    - [ViewPresentation](https://youtu.be/mEK-_1xrKpA)
 
 
 <h2>CERTIFICATIONS</h2>
 
-- <b> Project Management Professional(PMP)</b>
-  - [Badge Link](https://www.credly.com/badges/069386a1-7007-40f8-9773-f308e59e06db/public_url) 
-- <b> Certified Scrum Master(CSM)</b>
-  - [Badge Link](https://badgecert.com/bc/html/groupbadges.html?k=NWR6TmMzUVRUbElJeVZ5c0RnclVnems0cTkybW0yb2Q) 
-- <b> Ceritified Scrum Product Owner(CSPO)</b>
-  - [Badge Link](https://badgecert.com/bc/html/groupbadges.html?k=NWR6TmMzUVRUbElJeVZ5c0RnclVnems0cTkybW0yb2Q) 
+- [PMP® (Project Management Professional)](https://www.credly.com/badges/069386a1-7007-40f8-9773-f308e59e06db/public_url) 
 
-<h2></h2>
+- [CSPO® (Certified Scrum Product Owner)](https://badgecert.com/bc/html/groupbadges.html?k=NWR6TmMzUVRUbElJeVZ5c0RnclVnems0cTkybW0yb2Q) 
+
+- [CSM® (Certified Scrum Master)](https://badgecert.com/bc/html/groupbadges.html?k=NWR6TmMzUVRUbElJeVZ5c0RnclVnems0cTkybW0yb2Q)
+
+- **Oracle Cloud Infrastructure 2025: Generative AI Professional**
+
+- **Oracle Certified AI Foundations Associate**
+
 
 <h2>CONTACT</h2>
 
