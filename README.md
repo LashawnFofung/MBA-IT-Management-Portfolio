@@ -17,17 +17,24 @@
 ---
 
 ## Contents
-[About](#about) · [What I Bring](#what-i-bring) · [Featured Work](#featured-work) · [Project Details](#project-details) · [Toolkit](#toolkit) · [Certifications](#certifications) · [Contact](#contact)
+[About Me](#about-me) · [What I Bring](#what-i-bring) · [Featured Work](#featured-work) · [Project Details](#project-details) · [Toolkit](#toolkit) · [Certifications](#certifications) · [Contact](#contact)
 
 ---
 
-## About
+## About Me
 
-I'm a Technical Product Manager who sits where engineering, business strategy, and the user meet. My MBA in IT Management gives me the business lens, my PMP/CSPO/CSM training gives me the delivery discipline, and my earlier career as a **Clinical Liaison** taught me to treat data and requirements with high-stakes rigor — the kind of precision healthcare demands.
+I'm a Technical Product Manager who works where **business, technology, and the user** meet. I can scope a product, build enough of it to understand the trade-offs, and test it with real people before asking a team to commit.
 
-Recently, I've focused on **applied AI**: writing PRDs for agentic systems, building RAG pipelines, and prototyping AI-driven products end to end. I've also led digital enrollment enhancements at **Optum** and consistently delivered user-centered work validated by **98% CSAT**.
+**How I got here:**
+- 🩺 **Clinical roots.** As a Clinical Liaison, I learned to treat data and requirements with high-stakes rigor. In healthcare, a small error reaches a real person.
+- 🏢 **Product delivery.** At **Optum**, I led digital enrollment enhancements and consistently delivered user-centered work validated by **98% CSAT**.
+- 🎓 **Business strategy.** My **MBA in IT Management** and **PMP, CSPO, and CSM** certifications give me the business lens and delivery discipline to run cross-functional work.
+- 🤖 **Applied AI.** I write PRDs for agentic systems and build RAG pipelines myself. My document automation platform earned a **Top Performer Award (Top 10%)**.
+- 🎨 **Design.** UI/UX training rounds out the loop, so I can balance what's viable for the business, feasible to build, and right for the user.
 
-**I'm looking for:** Technical Product Manager / AI Product Manager roles where I can own a product area from discovery through delivery.
+**What sets me apart:** I don't hand engineers a spec and hope. I benchmark the models, prototype the flow, test it with users, and bring evidence to the decision.
+
+**I'm looking for:** Technical PM or AI PM roles where I can own a product area from discovery through delivery, especially in healthcare, fintech, or AI-first teams.
 
 ---
 
@@ -47,7 +54,7 @@ Recently, I've focused on **applied AI**: writing PRDs for agentic systems, buil
 
 | Project | Type | Highlight | Links |
 |---|---|---|---|
-| **Wayfair Agentic BI** | AI Product · PRDs · Prototype | 3 AI agents specced with full PRDs + clickable dashboard prototype | [Repo](https://github.com/LashawnFofung/Wayfair-Agentic-BI) · [Demo](https://youtu.be/7shTzdWxmfE) |
+| **Wayfair Agentic BI** | AI Product · PRDs · Prototype | 4 AI agents specced with full PRDs + clickable dashboard prototype | [Repo](https://github.com/LashawnFofung/Wayfair-Agentic-BI) · [Demo](https://youtu.be/7shTzdWxmfE) |
 | **AI Document Automation Platform** | AI Build · RAG · OCR | 🏆 Top Performer Award (Top 10%) | [Repo](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform) |
 | **BeReal Passport & Community Boards** | UI/UX · Product Concept | 4 of 5 testers said they'd open the app more often | [Repo](https://github.com/LashawnFofung/BeReal-RealProcess/tree/main) |
 | **News Corp: AI for Gen Z Trust** | AI Strategy · User Research | Found a 42% trust deficit; proposed features to cut "Never Notice" rate by 20% | [Repo](https://github.com/LashawnFofung/Digital-Product-AI-Strategy) · [Deck](https://github.com/LashawnFofung/Digital-Product-AI-Strategy/blob/main/News%20Corp%20Gen%20Z%20Consumer%20Insight.pptx) |
@@ -60,13 +67,13 @@ Recently, I've focused on **applied AI**: writing PRDs for agentic systems, buil
 ## Project Details
 
 ### 🤖 Wayfair Agentic BI
-*AI Product Management · Mar 2026 – May 2026*
+*AI Product Management · 8-week technical externship · Mar 2026 – May 2026*
 
 **Problem:** Merchandising and vendor teams spend hours manually tracking competitors and demand trends, so insights arrive late.
-**What I did:** Defined and specced an autonomous multi-agent system (n8n + Gemini) that turns competitor data and consumer demand signals into a live BI dashboard. Wrote a PRD for each agent and built a UI prototype in Base44.
-**Agents:** Market Trend Discovery · Competitor Monitoring · Moodboard Generation (for supply-chain vendor management)
+**What I did:** Defined and specced an autonomous multi-agent system (n8n + Gemini) that turns competitor data and consumer demand signals into a live BI dashboard. Wrote four agent PRDs, built a UI prototype in Base44, and built the agents themselves in n8n ([Agentic Workflow Hub](https://github.com/LashawnFofung/Agentic-Workflow-Hub)).
+**Agents:** Moodboard Generation · Market Trend Discovery · Competitor Monitoring · Insights & Content · Dashboard Builder
 
-📄 PRDs: [Market Trend Discovery](https://github.com/LashawnFofung/Wayfair-Agentic-BI/blob/main/Product%20Requirement%20Document%20%28PRD%29/PRD%20-%20Market%20Trend%20Discovery%20AI%20Agent.md) · [Competitor Monitoring](https://github.com/LashawnFofung/Wayfair-Agentic-BI/blob/main/Product%20Requirement%20Document%20%28PRD%29/PRD%20-%20Competitor%20Monitoring%20AI%20Agent.md) · [Moodboard](https://github.com/LashawnFofung/Wayfair-Agentic-BI/blob/main/Product%20Requirement%20Document%20%28PRD%29/PRD%20-%20Moodboard%20AI%20Agent.md)
+📄 PRDs: [Market Trend Discovery](https://github.com/LashawnFofung/Wayfair-Agentic-BI/blob/main/Product%20Requirement%20Document%20%28PRD%29/PRD%20-%20Market%20Trend%20Discovery%20AI%20Agent.md) · [Competitor Monitoring](https://github.com/LashawnFofung/Wayfair-Agentic-BI/blob/main/Product%20Requirement%20Document%20%28PRD%29/PRD%20-%20Competitor%20Monitoring%20AI%20Agent.md) · [Moodboard](https://github.com/LashawnFofung/Wayfair-Agentic-BI/blob/main/Product%20Requirement%20Document%20%28PRD%29/PRD%20-%20Moodboard%20AI%20Agent.md) · [Insights & Content](https://github.com/LashawnFofung/Wayfair-Agentic-BI/blob/main/Product%20Requirement%20Document%20%28PRD%29/PRD%20-%20Content%20Strategy%20AI%20Agent.md)
 🎥 [Prototype Walkthrough](https://youtu.be/7shTzdWxmfE) · [PRD Case Study Video](https://youtu.be/faxDVoOzObo) · [Case Study PDF](https://github.com/LashawnFofung/Wayfair-Agentic-BI/blob/main/PRD%20CASE%20STUDY/Wayfair%20Agentic%20AI%20BI%20PRD%20Case%20Study.pdf) · [Prototype Notes](https://github.com/LashawnFofung/Wayfair-Agentic-BI/blob/main/Prototype/Market%20Intelligence%20Dashboard.md) · [Repo](https://github.com/LashawnFofung/Wayfair-Agentic-BI)
 
 ---
