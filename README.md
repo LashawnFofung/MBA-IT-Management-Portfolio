@@ -42,9 +42,34 @@ My work is defined by three core pillars:
 
 <h2>PROJECTS</h2>
 
+### BeReal UI/UX Design | Product Management 
+
+**August 2026 - October 2026**
+
+- [Review Repo](https://github.com/LashawnFofung/BeReal-RealProcess/tree/main)
+
+
+BeReal Passport & Community Boards is an independent concept created for a UI/UX program. It is not affiliated with or endorsed by BeReal.
+
+Building accessible, user-centered digital products, with a focus on user research, information architecture, prototyping and WCAG standards.
+
+This repository holds the design documentation, research artifacts, interactive prototypes and interface specs I created during the CourseCareers UI/UX Design Program.
+
+Product design philosophy: A strong grasp of technical delivery and business strategy is a real advantage in product design. Formal UI/UX training closes the loop, letting me bridge business viability, technical feasibility and human-centered design.
+
+The problem: BeReal's daily users fell from about 15M to about 6M in a matter of months. Casual users drift away when nothing pulls them back.
+
+The solution: squads share monthly themed boards. Each post earns a collectible Real Passport stamp, and each month is saved as a capsule. It's opt-in, uses the same real photo, and has no public likes.
+
+The result: in a 5-person focus group, 4 of 5 testers said they'd open BeReal more often, and the reminders and streak scored 4.2/5 for feeling low-pressure. Recommendation: refine the flow (fewer taps), then retest.
+
+My role: UI/UX designer and product manager · Methods: teardown, persona, journey map, usability testing, focus group, survey · Tools: Canva, Claude, Google Forms, GitHub Pages
+
+<br>
+
 ### Wayfair Agentic BI
 
-**March 2026 – Present** 
+**March 2026 – May 2026** 
 
 Architected an autonomous agent ecosystem using n8n and Gemini to transform competitor data and consumer demand signals into a live business intelligence dashboard.
 
@@ -54,8 +79,7 @@ Architected an autonomous agent ecosystem using n8n and Gemini to transform comp
 - [DEMO: UI Prototype Walkthrough using Base44](https://youtu.be/7shTzdWxmfE) | [Read about Prototype](https://github.com/LashawnFofung/Wayfair-Agentic-BI/blob/main/Prototype/Market%20Intelligence%20Dashboard.md) | [PRD Case Study DEMO](https://youtu.be/faxDVoOzObo) | [PRD Case Study Presentation PDF](https://github.com/LashawnFofung/Wayfair-Agentic-BI/blob/main/PRD%20CASE%20STUDY/Wayfair%20Agentic%20AI%20BI%20PRD%20Case%20Study.pdf)
 
 
-   
-
+  
 
 <br>
 
