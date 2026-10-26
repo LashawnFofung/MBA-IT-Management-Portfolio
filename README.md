@@ -1,154 +1,152 @@
-# Lashawn Fofung - MBA IT Management Portfolio
+<div align="center">
 
-MBA IT Management | BIS Clinical Informatics | PMP | CSM | CSPO
+# Lashawn Fofung
+### Technical Product Manager · AI Products & Agentic Workflows
 
-<i>Strategic AI Product Leader | Bridging Clinical Precision & Intelligent Automation</i>
+**MBA, IT Management** · **BIS, Clinical Informatics** · **PMP** · **CSPO** · **CSM**
 
+*I turn ambiguous business problems into shipped AI products — from PRD to prototype to production.*
 
-<h2></h2>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lashawnfofung/)
+[![AI Portfolio](https://img.shields.io/badge/AI_Portfolio-View-6E40C9?style=flat&logo=github&logoColor=white)](https://github.com/LashawnFofung/AI-Portfolio)
+[![Data Portfolio](https://img.shields.io/badge/Data_Portfolio-View-2EA44F?style=flat&logo=github&logoColor=white)](https://github.com/LashawnFofung/Data-Analysis-Portfolio)
+[![GitHub](https://img.shields.io/badge/All_Repos-Profile-181717?style=flat&logo=github&logoColor=white)](https://github.com/LashawnFofung)
 
-<h3>TABLE OF CONTENTS</h3> 
+</div>
 
-- <b>[ABOUT ME](https://github.com/LashawnFofung/MBA-IT-Management-Portfolio?tab=readme-ov-file#about-me) </b>
-- <b>[PROJECTS](https://github.com/LashawnFofung/MBA-IT-Management-Portfolio/blob/main/README.md#projects)</b>    
-- <b>[CERTIFICATIONS](https://github.com/LashawnFofung/MBA-IT-Management-Portfolio/blob/main/README.md#certifications)</b>
-- <b>[CONTACT](https://github.com/LashawnFofung/MBA-IT-Management-Portfolio/blob/main/README.md#contact)</b>
-- <b>[Data Analysis Portfolio](https://github.com/LashawnFofung/Data-Analysis-Portfolio)</b>
-- <b>[AI Portfolio](https://github.com/LashawnFofung/AI-Portfolio)</b>
-- <b>[My Main Portfolio Link](https://github.com/LashawnFofung)</b>
+---
 
+## Contents
+[About](#about) · [What I Bring](#what-i-bring) · [Featured Work](#featured-work) · [Project Details](#project-details) · [Toolkit](#toolkit) · [Certifications](#certifications) · [Contact](#contact)
 
-<h2></h2>
+---
 
-<h2>ABOUT ME</h2>
+## About
 
-<br>
+I'm a Technical Product Manager who sits where engineering, business strategy, and the user meet. My MBA in IT Management gives me the business lens, my PMP/CSPO/CSM training gives me the delivery discipline, and my earlier career as a **Clinical Liaison** taught me to treat data and requirements with high-stakes rigor — the kind of precision healthcare demands.
 
-<b>AI Product Architect & Certified Agile Leader (MBA, PMP, CSPO)</b>
+Recently, I've focused on **applied AI**: writing PRDs for agentic systems, building RAG pipelines, and prototyping AI-driven products end to end. I've also led digital enrollment enhancements at **Optum** and consistently delivered user-centered work validated by **98% CSAT**.
 
-This portfolio showcases my expertise as a strategic **Associate Technical Product Manager** who bridges the gap between complex engineering and high-impact business value. With an **MBA in IT Management** and a suite of Agile certifications (**PMP, CSPO, CSM**), I specialize in architecting production-ready AI solutions and managing cross-functional teams to drive measurable growth.
+**I'm looking for:** Technical Product Manager / AI Product Manager roles where I can own a product area from discovery through delivery.
 
-<br>
+---
 
-**My work is defined by three core pillars:**
+## What I Bring
 
-- **Applied AI & Agentic Workflows:** I architect end-to-end **Agentic BI ecosystems** and **RAG pipelines** using Python, n8n, and the Gemini API. My focus is on automating market intelligence and document extraction through multi-LLM orchestration (Gemini, Mistral, Phi-2).
+| | |
+|---|---|
+| 🤖 **AI Product Delivery** | Scope, spec, and ship AI features — agentic workflows (n8n + Gemini), RAG pipelines (LlamaIndex, FAISS), and multi-LLM orchestration (Gemini, Mistral, Phi-2). |
+| 🧭 **Product Strategy** | Turn executive goals and user research into prioritized roadmaps, PRDs, and sprint-ready backlogs. |
+| 📊 **Data-Driven Decisions** | Use SQL, Tableau, Power BI, and Excel modeling to size problems, set KPIs, and measure outcomes. |
+| 🎨 **User-Centered Design** | Run usability tests and focus groups, map journeys, and prototype to WCAG accessibility standards. |
+| 🏃 **Agile Leadership** | Lead cross-functional teams with Scrum and PMP-grade planning, risk, and stakeholder management. |
 
-- **Strategic Product Leadership:** I translate executive vision into high-integrity product backlogs. Whether leading digital enrollment enhancements at Optum or proposing AI strategies for News Corp, I ensure every technical sprint aligns with 100% of business objectives.
+---
 
-- **Data-Driven Decision Making:** Leveraging a background as a **Clinical Liaison**, I apply high-stakes rigor to data analysis. I utilize **SQL, Tableau, and Power BI** to transform raw metrics into actionable insights, consistently delivering user-centric solutions validated by **98% CSAT scores**.
+## Featured Work
 
-<h2></h2>
+| Project | Type | Highlight | Links |
+|---|---|---|---|
+| **Wayfair Agentic BI** | AI Product · PRDs · Prototype | 3 AI agents specced with full PRDs + clickable dashboard prototype | [Repo](https://github.com/LashawnFofung/Wayfair-Agentic-BI) · [Demo](https://youtu.be/7shTzdWxmfE) |
+| **AI Document Automation Platform** | AI Build · RAG · OCR | 🏆 Top Performer Award (Top 10%) | [Repo](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform) |
+| **BeReal Passport & Community Boards** | UI/UX · Product Concept | 4 of 5 testers said they'd open the app more often | [Repo](https://github.com/LashawnFofung/BeReal-RealProcess/tree/main) |
+| **News Corp: AI for Gen Z Trust** | AI Strategy · User Research | Found a 42% trust deficit; proposed features to cut "Never Notice" rate by 20% | [Repo](https://github.com/LashawnFofung/Digital-Product-AI-Strategy) · [Deck](https://github.com/LashawnFofung/Digital-Product-AI-Strategy/blob/main/News%20Corp%20Gen%20Z%20Consumer%20Insight.pptx) |
+| **MBA Capstone: FO Tread Bikes** | Business Strategy · Finance | Perfect 1.000 financial risk score | [Repo](https://github.com/LashawnFofung/FO-Tread-Bikes) |
+| **Nurse Attrition Analysis** | Analytics · Regression | Identified key drivers of clinical staff turnover | [Repo](https://github.com/LashawnFofung/Nurse-Attrition-Linear-Regression-Analysis) |
+| **Drug Market Analysis** | Decision Analysis | Risk/payoff model for pharma strategy under uncertainty | [Repo](https://github.com/LashawnFofung/Drug-Market-Analysis) |
 
-<h2>PROJECTS</h2>
+---
 
-### BeReal UI/UX Design | Product Management 
+## Project Details
 
-**August 2026 - October 2026**
+### 🤖 Wayfair Agentic BI
+*AI Product Management · Mar 2026 – May 2026*
 
-- [Review Repo](https://github.com/LashawnFofung/BeReal-RealProcess/tree/main)
+**Problem:** Merchandising and vendor teams spend hours manually tracking competitors and demand trends, so insights arrive late.
+**What I did:** Defined and specced an autonomous multi-agent system (n8n + Gemini) that turns competitor data and consumer demand signals into a live BI dashboard. Wrote a PRD for each agent and built a UI prototype in Base44.
+**Agents:** Market Trend Discovery · Competitor Monitoring · Moodboard Generation (for supply-chain vendor management)
 
+📄 PRDs: [Market Trend Discovery](https://github.com/LashawnFofung/Wayfair-Agentic-BI/blob/main/Product%20Requirement%20Document%20%28PRD%29/PRD%20-%20Market%20Trend%20Discovery%20AI%20Agent.md) · [Competitor Monitoring](https://github.com/LashawnFofung/Wayfair-Agentic-BI/blob/main/Product%20Requirement%20Document%20%28PRD%29/PRD%20-%20Competitor%20Monitoring%20AI%20Agent.md) · [Moodboard](https://github.com/LashawnFofung/Wayfair-Agentic-BI/blob/main/Product%20Requirement%20Document%20%28PRD%29/PRD%20-%20Moodboard%20AI%20Agent.md)
+🎥 [Prototype Walkthrough](https://youtu.be/7shTzdWxmfE) · [PRD Case Study Video](https://youtu.be/faxDVoOzObo) · [Case Study PDF](https://github.com/LashawnFofung/Wayfair-Agentic-BI/blob/main/PRD%20CASE%20STUDY/Wayfair%20Agentic%20AI%20BI%20PRD%20Case%20Study.pdf) · [Prototype Notes](https://github.com/LashawnFofung/Wayfair-Agentic-BI/blob/main/Prototype/Market%20Intelligence%20Dashboard.md) · [Repo](https://github.com/LashawnFofung/Wayfair-Agentic-BI)
 
-BeReal Passport & Community Boards is an independent concept created for a UI/UX program. It is not affiliated with or endorsed by BeReal.
+---
 
-Building accessible, user-centered digital products, with a focus on user research, information architecture, prototyping and WCAG standards.
+### 📑 AI-Powered Document Automation Platform
+*Intelligent Document Processing · Oct 2025 – Jan 2026 · 🏆 Top Performer Award (Top 10%)*
 
-This repository holds the design documentation, research artifacts, interactive prototypes and interface specs I created during the CourseCareers UI/UX Design Program.
+**Problem:** Teams handling high-volume financial and legal documents can't quickly find or extract the information they need.
+**What I did:** Built a production-ready IDP system with context-aware search and extraction over scanned and digital documents.
+**Stack:** Python · RAG (LlamaIndex, FAISS) · Computer Vision (PaddleOCR) · Gradio
 
-Product design philosophy: A strong grasp of technical delivery and business strategy is a real advantage in product design. Formal UI/UX training closes the loop, letting me bridge business viability, technical feasibility and human-centered design.
+🔗 [Repo](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform)
 
-- **The problem:** BeReal's daily users fell from about 15M to about 6M in a matter of months. Casual users drift away when nothing pulls them back.
+---
 
-- **The solution:** Squads share monthly themed boards. Each post earns a collectible Real Passport stamp, and each month is saved as a capsule. It's opt-in, uses the same real photo, and has no public likes.
+### 📸 BeReal Passport & Community Boards
+*UI/UX Design + Product Management · Aug 2026 – Oct 2026*
 
-- **The result:** In a 5-person focus group, 4 of 5 testers said they'd open BeReal more often, and the reminders and streak scored 4.2/5 for feeling low-pressure. Recommendation: refine the flow (fewer taps), then retest.
+**Problem:** BeReal's daily users fell from ~15M to ~6M in months — casual users drift away when nothing pulls them back.
+**Solution:** Squads share monthly themed boards; each post earns a collectible *Real Passport* stamp, and each month is saved as a capsule. Opt-in, same real photo, no public likes.
+**Result:** In a 5-person focus group, 4 of 5 testers said they'd open BeReal more often; reminders and streaks scored 4.2/5 for feeling low-pressure. **Next step:** reduce taps in the flow, then retest.
+**Methods:** Teardown · Persona · Journey map · Usability testing · Focus group · Survey
+**Tools:** Canva · Claude · Google Forms · GitHub Pages
 
-- **My role:** UI/UX designer and product manager · Methods: teardown, persona, journey map, usability testing, focus group, survey · Tools: Canva, Claude, Google Forms, GitHub Pages
+> *Independent concept created for the CourseCareers UI/UX Design Program. Not affiliated with or endorsed by BeReal.*
 
-<br>
+🔗 [Repo](https://github.com/LashawnFofung/BeReal-RealProcess/tree/main)
 
-### Wayfair Agentic BI
+---
 
-**March 2026 – May 2026** 
+### 📰 News Corp: AI Digital Product Strategy
+*Consumer Insights & AI Strategy · Aug 2025 – Oct 2025*
 
-Architected an autonomous agent ecosystem using n8n and Gemini to transform competitor data and consumer demand signals into a live business intelligence dashboard.
+**Problem:** Gen Z doesn't trust news feeds — and often doesn't notice them at all.
+**What I did:** Ran audience research and proposed **AI Dimensional Personalization**, shifting from generic feeds to a trustworthy AI co-pilot.
+**Outcome:** Quantified a 42% trust deficit and proposed features targeting a 20% reduction in the "Never Notice" rate.
 
-- **Key Features:** Automated market trend discovery, competitor benchmarking, and visual moodboard generation for supply chain vendor management.
+🔗 [Repo](https://github.com/LashawnFofung/Digital-Product-AI-Strategy) · [Pitch Deck](https://github.com/LashawnFofung/Digital-Product-AI-Strategy/blob/main/News%20Corp%20Gen%20Z%20Consumer%20Insight.pptx)
 
-- [Review Repo](https://github.com/LashawnFofung/Wayfair-Agentic-BI) | [Moodboard AI Agent PRD](https://github.com/LashawnFofung/Wayfair-Agentic-BI/blob/main/Product%20Requirement%20Document%20(PRD)/PRD%20-%20Moodboard%20AI%20Agent.md) | [Market Trend Discovery AI Agent PRD](https://github.com/LashawnFofung/Wayfair-Agentic-BI/blob/main/Product%20Requirement%20Document%20(PRD)/PRD%20-%20Market%20Trend%20Discovery%20AI%20Agent.md) | [Competitor Monitoring AI Agent PRD](https://github.com/LashawnFofung/Wayfair-Agentic-BI/blob/main/Product%20Requirement%20Document%20(PRD)/PRD%20-%20Competitor%20Monitoring%20AI%20Agent.md)
-- [DEMO: UI Prototype Walkthrough using Base44](https://youtu.be/7shTzdWxmfE) | [Read about Prototype](https://github.com/LashawnFofung/Wayfair-Agentic-BI/blob/main/Prototype/Market%20Intelligence%20Dashboard.md) | [PRD Case Study DEMO](https://youtu.be/faxDVoOzObo) | [PRD Case Study Presentation PDF](https://github.com/LashawnFofung/Wayfair-Agentic-BI/blob/main/PRD%20CASE%20STUDY/Wayfair%20Agentic%20AI%20BI%20PRD%20Case%20Study.pdf)
+---
 
+### 🚲 MBA Capstone: FO Tread Bikes
+*Business Simulation · Apr 2025 – Jun 2025*
 
-  
+Led a conscious-capitalism startup simulation covering financial management, strategic scaling, and KPI reporting through BI dashboards. Finished with a total performance score of 12.487 and a perfect **1.000 financial risk score**.
 
-<br>
+🔗 [Repo](https://github.com/LashawnFofung/FO-Tread-Bikes) · [Business Plan Presentation](https://youtu.be/fPxMes6A5BI) · [Stockholder Report](https://youtu.be/c9PEnwB_V0w)
 
-### AI-Powered Document Automation Platform
+---
 
-**October 2025 – January 2026 Top Performer Award (Top 10%)**
+### 📊 Data-Driven Decision Making
 
-Developed a production-ready Intelligent Document Processing (IDP) system that enables context-aware search and extraction over high-volume financial and legal documents.
+- **Nurse Attrition Analysis** — Applied linear regression (Excel Analysis ToolPak) to identify the key drivers of clinical staff turnover.
+  🔗 [Repo](https://github.com/LashawnFofung/Nurse-Attrition-Linear-Regression-Analysis) · [Presentation](https://youtu.be/mEK-_1xrKpA)
+- **Drug Market Analysis** — Evaluated payoffs and risks of pharmaceutical strategies to maximize financial value under market uncertainty.
+  🔗 [Repo](https://github.com/LashawnFofung/Drug-Market-Analysis)
 
-- **Tech Stack:** Python, RAG (LlamaIndex, FAISS), Computer Vision (PaddleOCR), and Gradio.
-    
-   - [Review Repo](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform)
+---
 
-<br>
+## Toolkit
 
-### AI Digital Product Strategy
-**August 2025 – October 2025**
+**Product:** PRDs · Roadmapping · Backlog management · User research · Usability testing · Prototyping (Base44, Canva) · WCAG accessibility
+**AI / Technical:** Python · n8n · Gemini API · RAG (LlamaIndex, FAISS) · PaddleOCR · Gradio · Mistral · Phi-2
+**Data:** SQL · Tableau · Power BI · Excel (regression, decision analysis)
+**Delivery:** Scrum · Agile · PMP project management · Stakeholder management
 
-Conducted deep audience research to solve the "Trust Crisis" in news consumption for Gen Z. Proposed **AI Dimensional Personalization**, moving products from generic feeds to trustworthy AI co-pilots.
+---
 
-- **Outcome:** Identified a 42% trust deficit and proposed high-impact features to reduce the "Never Notice" rate by 20%.
+## Certifications
 
-- [Review Repo](https://github.com/LashawnFofung/Digital-Product-AI-Strategy) | [Review Pitch Deck](https://github.com/LashawnFofung/Digital-Product-AI-Strategy/blob/main/News%20Corp%20Gen%20Z%20Consumer%20Insight.pptx)
+- [PMP® — Project Management Professional](https://www.credly.com/badges/069386a1-7007-40f8-9773-f308e59e06db/public_url)
+- [CSPO® — Certified Scrum Product Owner](https://badgecert.com/bc/html/groupbadges.html?k=NWR6TmMzUVRUbElJeVZ5c0RnclVnems0cTkybW0yb2Q)
+- [CSM® — Certified ScrumMaster](https://badgecert.com/bc/html/groupbadges.html?k=NWR6TmMzUVRUbElJeVZ5c0RnclVnems0cTkybW0yb2Q)
+- Oracle Cloud Infrastructure 2025 Generative AI Professional
+- Oracle Certified AI Foundations Associate
 
-<br>
+---
 
-### MBA Capstone - FO Tread Bikes
-**April 2025 – June 2025**
+## Contact
 
-Led a conscious capitalism startup simulation, achieving a total performance score of 12.487 and a perfect 1.000 financial risk score.
+Open to Technical PM and AI PM opportunities — let's talk.
 
-- **Focus:** Financial management, strategic scaling, and KPI reporting via BI dashboards.
-- [Review Repo](https://github.com/LashawnFofung/FO-Tread-Bikes) | [Business Plan Presentation](https://youtu.be/fPxMes6A5BI) | [Stockholder Report Presentation](https://youtu.be/c9PEnwB_V0w)
-
-<br>
-
-### Data-Driven Decision Making Projects
-- **Analyzing the Drug Market:** Evaluated payoffs and risks for pharmaceutical strategies to maximize financial value amidst market uncertainty.
-    - [Review Repo](https://github.com/LashawnFofung/Drug-Market-Analysis)
-
-<br>
-
-- **Nurse Attrition Analysis Project** Applied linear regression modeling (Excel ToolPak) to identify key drivers of clinical staff turnover.
-      
-    - [Review Repo](https://github.com/LashawnFofung/Nurse-Attrition-Linear-Regression-Analysis)
-    - [ViewPresentation](https://youtu.be/mEK-_1xrKpA)
-
-
-<h2></h2>
-
-<h2>CERTIFICATIONS</h2>
-
-- [PMP® (Project Management Professional)](https://www.credly.com/badges/069386a1-7007-40f8-9773-f308e59e06db/public_url) 
-
-- [CSPO® (Certified Scrum Product Owner)](https://badgecert.com/bc/html/groupbadges.html?k=NWR6TmMzUVRUbElJeVZ5c0RnclVnems0cTkybW0yb2Q) 
-
-- [CSM® (Certified Scrum Master)](https://badgecert.com/bc/html/groupbadges.html?k=NWR6TmMzUVRUbElJeVZ5c0RnclVnems0cTkybW0yb2Q)
-
-- **Oracle Cloud Infrastructure 2025: Generative AI Professional**
-
-- **Oracle Certified AI Foundations Associate**
-
-
-<h2></h2>
-<h2>CONTACT</h2>
-
-- [LinkedIn](https://www.linkedin.com/in/lashawnfofung/)
-
-  
-<h2></h2>
-
- 
+👉 **[Connect on LinkedIn](https://www.linkedin.com/in/lashawnfofung/)**
