@@ -56,7 +56,7 @@ I'm a Technical Product Manager who works where **business, technology, and the 
 |---|---|---|---|
 | **Wayfair Agentic BI** | AI Product · PRDs · Prototype | 4 AI agents specced with full PRDs + clickable dashboard prototype | [Repo](https://github.com/LashawnFofung/Wayfair-Agentic-BI) · [Demo](https://youtu.be/7shTzdWxmfE) |
 | **AI Document Automation Platform** | AI Build · RAG · OCR | 🏆 Top Performer Award (Top 10%) | [Repo](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform) |
-| **BeReal Passport & Community Boards** | UI/UX · Product Concept | 4 of 5 testers said they'd open the app more often | [Repo](https://github.com/LashawnFofung/BeReal-RealProcess/tree/main) |
+| **BeReal Passport & Community Boards** | UI/UX · Product Concept | 4 of 5 testers said they'd open the app more often | [Repo](https://github.com/LashawnFofung/BeReal-RealProcess) · [White paper](https://github.com/LashawnFofung/BeReal-RealProcess/blob/main/White%20Paper/The_Real_Process_BeReal_Externship_White_Paper.pdf) |
 | **News Corp: AI for Gen Z Trust** | AI Strategy · User Research | Found a 42% trust deficit; proposed features to cut "Never Notice" rate by 20% | [Repo](https://github.com/LashawnFofung/Digital-Product-AI-Strategy) · [Deck](https://github.com/LashawnFofung/Digital-Product-AI-Strategy/blob/main/News%20Corp%20Gen%20Z%20Consumer%20Insight.pptx) |
 | **MBA Capstone: FO Tread Bikes** | Business Strategy · Finance | Perfect 1.000 financial risk score | [Repo](https://github.com/LashawnFofung/FO-Tread-Bikes) |
 | **Nurse Attrition Analysis** | Analytics · Regression | Identified key drivers of clinical staff turnover | [Repo](https://github.com/LashawnFofung/Nurse-Attrition-Linear-Regression-Analysis) |
@@ -90,17 +90,17 @@ I'm a Technical Product Manager who works where **business, technology, and the 
 ---
 
 ### 📸 BeReal Passport & Community Boards
-*UI/UX Design + Product Management · Aug 2026 – Oct 2026*
+*UI/UX Design + Product Management Externship · Aug 2026 – Oct 2026*
 
 **Problem:** BeReal's daily users fell from ~15M to ~6M in months — casual users drift away when nothing pulls them back.
 **Solution:** Squads share monthly themed boards; each post earns a collectible *Real Passport* stamp, and each month is saved as a capsule. Opt-in, same real photo, no public likes.
-**Result:** In a 5-person focus group, 4 of 5 testers said they'd open BeReal more often; reminders and streaks scored 4.2/5 for feeling low-pressure. **Next step:** reduce taps in the flow, then retest.
-**Methods:** Teardown · Persona · Journey map · Usability testing · Focus group · Survey
-**Tools:** Canva · Claude · Google Forms · GitHub Pages
+**Result:** In a 5-person focus group, 4 of 5 testers said they'd open BeReal more often; reminders and streaks scored 4.2/5 for feeling low-pressure. Testing reshaped the PRD (v1.0 → v2.0) and the rollout plan. **Next step:** reduce taps from capture to stamp, then retest with 7–10 people.
+**Methods:** Teardown · Competitive analysis · Persona & journey map · Usability testing · Focus group & survey · PRD v1.0 → v2.0 · A/B test plan · Technical design · Job aid
+**Tools:** Canva · Claude · Google Forms · Microsoft Word · GitHub Pages
 
-> *Independent concept created for the CourseCareers UI/UX Design Program. Not affiliated with or endorsed by BeReal.*
+> *Independent concept created for a UI/UX Design & Product Management Externship. Not affiliated with or endorsed by BeReal.*
 
-🔗 [Repo](https://github.com/LashawnFofung/BeReal-RealProcess/tree/main)
+🔗 [Repo](https://github.com/LashawnFofung/BeReal-RealProcess) · [Prototype](https://lashawnfofung.github.io/BeReal-RealProcess/) · [White paper](https://github.com/LashawnFofung/BeReal-RealProcess/blob/main/White%20Paper/The_Real_Process_BeReal_Externship_White_Paper.pdf) · [Case study video](https://youtu.be/yxYclJn8ZGc)
 
 ---
 
